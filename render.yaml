@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yukibbs-youtube
+    name: yukibbs-youtube-soum1.6183
     env: python
     region: Oregon
     plan: free
